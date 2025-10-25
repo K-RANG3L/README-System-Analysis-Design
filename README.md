@@ -20,8 +20,9 @@ If I could revise one part, I would improve the non-functional requirements and 
 
 4. How did you interpret and implement the user’s needs?
 
-Interpreting the user’s needs required analyzing the interview transcript and translating Liam’s goals into measurable requirements. I focused on designing a system that balanced usability, automation, and data accuracy. The final design included online lesson scheduling, DMV integration, secure authentication, and mobile-friendly access, all of which addressed the client's main objectives. Understanding the user’s goals early in the process was essential to ensure that every design element supported real-world operations and improved student outcomes.
+Interpreting the user’s needs required analyzing the interview transcript and translating Liam’s goals into measurable requirements. I focused on designing a system that balanced usability, automation, and data accuracy. The final design included online lesson scheduling, DMV integration, secure authentication, and mobile-friendly access, all of which addressed the client's main objectives. Understanding the user’s goals early in the process ensured that every design element supported real-world operations and improved student outcomes.
 
 5. How do you approach designing software?
 
-I approach software design through a structured yet flexible method that combines Waterfall discipline with Object-Oriented Modeling principles. Waterfall ensures accountability and milestone tracking during initial development, while the object-oriented approach supports scalability and modularity for future updates. I rely on UML diagrams, user stories, and iterative feedback to align technical design with business goals. Going forward, I’ll continue using these modeling strategies to build maintainable, user-focused systems.
+I approach software design through a structured yet flexible method that combines Waterfall discipline with Object-Oriented Modeling principles. Waterfall ensures accountability and milestone tracking during initial development, while the object-oriented approach supports scalability and modularity for future updates. I rely on UML diagrams, user stories, and iterative feedback to align technical design with business goals. I’ll continue using these modeling strategies to build maintainable, user-focused systems.
+
