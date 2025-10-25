@@ -26,3 +26,6 @@ Interpreting the user’s needs required analyzing the interview transcript and 
 
 I approach software design through a structured yet flexible method that combines Waterfall discipline with Object-Oriented Modeling principles. Waterfall ensures accountability and milestone tracking during initial development, while the object-oriented approach supports scalability and modularity for future updates. I rely on UML diagrams, user stories, and iterative feedback to align technical design with business goals. I’ll continue using these modeling strategies to build maintainable, user-focused systems.
 
+[CS 255 Business Requirements Document 10-05.docx](https://github.com/user-attachments/files/23139443/CS.255.Business.Requirements.Document.10-05.docx)
+
+[CS 255 System Design Document Template (Repaired).docx](https://github.com/user-attachments/files/23139480/CS.255.System.Design.Document.Template.Repaired.docx)
